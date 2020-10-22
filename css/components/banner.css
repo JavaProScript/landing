@@ -1,0 +1,7 @@
+.banner {
+  display: flex;
+  background-image: url('https://besthqwallpapers.com/Uploads/5-5-2018/51143/thumb2-french-shepherd-dog-beauceron-black-puppy-cute-little-animals-black-dog.jpg');
+  height: 500px;
+  background-size: cover;
+  align-items: center;
+}
