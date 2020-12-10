@@ -10,19 +10,4 @@
 @import url('components/cards.css');
 @import url('components/container.css');
 @import url('components/btn-purple.css');
-body {
-  margin: 0;
-  font-family: Open Sans;
-  background-color: rgb(240, 240, 240);
-}
-
-h1, h2, h3, h4 {
-  font-family: Poppins;
-}
-
-a {
-  text-decoration: none;
-}
-
-/* Custom design below! */
-
+@import url('config/fonts.css');
